@@ -5,7 +5,7 @@ import io
 # 1. Configuración de la página
 st.set_page_config(page_title="Seguimiento de Curso ETM", layout="wide", page_icon="📊")
 
-st.title("📊 Panel de Seguimiento - Responsables Regionales")
+st.title("📊 Participantes de Municipalidades Inscritos ETM Sello Municipal - Curso Virtual: Lineamientos para la articulación territorial en el marco de los instrumentos y mecanismos de coordinación del SINADIS 2da Edición")
 st.markdown("Seleccione su departamento para visualizar y descargar el avance de los participantes (Exclusivo ETM).")
 
 # 2. Función para cargar y transformar los datos
